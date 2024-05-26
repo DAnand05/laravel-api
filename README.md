@@ -19,4 +19,3 @@
 - run : `php artisan migrate:fresh --seed`
 - run : `php artisan serve`
 
-- Best of luck
