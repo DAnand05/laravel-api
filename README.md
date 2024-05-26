@@ -10,7 +10,7 @@
 # Laravel CRUD
 
 ## How to run the code
-- git clone https://github.com/AjayYadavAi/laravel-crud.git
+- git clone https://github.com/DAnand05/laravel-api.git
 - cd laravel-crud
 - cp .env.example `.env`
 - open .env and update DB_DATABASE (database details)
